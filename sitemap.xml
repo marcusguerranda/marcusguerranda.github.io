@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://marcusguerranda.github.io/tags/css/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://marcusguerranda.github.io/tags/html/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://marcusguerranda.github.io/tags/markdown/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/markdown-syntax/</loc>
+    <loc>https://marcusguerranda.github.io/posts/markdown-syntax/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://marcusguerranda.github.io/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://marcusguerranda.github.io/posts/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://marcusguerranda.github.io/tags/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://marcusguerranda.github.io/tags/themes/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://marcusguerranda.github.io/tags/privacy/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/rich-content/</loc>
+    <loc>https://marcusguerranda.github.io/posts/rich-content/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://marcusguerranda.github.io/tags/shortcodes/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/placeholder-text/</loc>
+    <loc>https://marcusguerranda.github.io/posts/placeholder-text/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://marcusguerranda.github.io/tags/text/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://marcusguerranda.github.io/tags/emoji/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/emoji-support/</loc>
+    <loc>https://marcusguerranda.github.io/posts/emoji-support/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://marcusguerranda.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://marcusguerranda.github.io/about/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

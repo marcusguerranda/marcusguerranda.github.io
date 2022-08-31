@@ -2,55 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marcusguerranda.github.io/tags/css/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <loc>https://marcusguerranda.github.io/home/downloads/download1/</loc>
   </url><url>
-    <loc>https://marcusguerranda.github.io/tags/html/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <loc>https://marcusguerranda.github.io/home/services/</loc>
   </url><url>
-    <loc>https://marcusguerranda.github.io/tags/markdown/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <loc>https://marcusguerranda.github.io/home/recentworks/</loc>
   </url><url>
-    <loc>https://marcusguerranda.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <loc>https://marcusguerranda.github.io/home/downloads/</loc>
   </url><url>
-    <loc>https://marcusguerranda.github.io/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/posts/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/tags/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/tags/themes/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/tags/privacy/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/posts/rich-content/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/tags/shortcodes/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/posts/placeholder-text/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/tags/text/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/tags/emoji/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/posts/emoji-support/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marcusguerranda.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://marcusguerranda.github.io/home/clients/</loc>
   </url><url>
     <loc>https://marcusguerranda.github.io/about/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/post/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/post/vivamus-lacus-mauris/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/home/subheader/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/home/services/service3/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/categories/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/home/services/service1/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/home/downloads/download2/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/home/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/home/services/service4/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/tags/</loc>
+  </url><url>
+    <loc>https://marcusguerranda.github.io/home/services/service2/</loc>
   </url>
 </urlset>
